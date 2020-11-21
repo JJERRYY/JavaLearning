@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9199bccc-a72e-479a-8527-4adc80d222d1" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ju7Rfq2qVnf69me8POtYm6YihV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager" selected="应用程序.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <module name="实验四" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Student_Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Student_Demo" />
+      <module name="实验四" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bbb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bbb" />
+      <module name="实验四" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stu" />
+      <module name="实验四" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="student" />
+      <module name="实验四" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Demo" />
+        <item itemvalue="应用程序.stu" />
+        <item itemvalue="应用程序.Student_Demo" />
+        <item itemvalue="应用程序.student" />
+        <item itemvalue="应用程序.bbb" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Jerry\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9199bccc-a72e-479a-8527-4adc80d222d1" name="默认的" comment="" />
+      <created>1604642118602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604642118602</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1604648575372">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1604648575372" />
+    <state x="249" y="0" key="#项目结构" timestamp="1604642127154">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="#项目结构/0.0.1536.834@0.0.1536.834" timestamp="1604642127154" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1605357851840">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1605357851840" />
+    <state width="1493" height="45" key="GridCell.Tab.0.bottom" timestamp="1605199636409">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="45" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1605199636409" />
+    <state width="1493" height="45" key="GridCell.Tab.0.center" timestamp="1605199636409">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="45" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1605199636409" />
+    <state width="1493" height="45" key="GridCell.Tab.0.left" timestamp="1605199636409">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="45" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1605199636409" />
+    <state width="1493" height="45" key="GridCell.Tab.0.right" timestamp="1605199636409">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="45" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1605199636409" />
+    <state x="390" y="25" key="new project wizard" timestamp="1605357889148">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="390" y="25" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1605357889148" />
+  </component>
+</project>

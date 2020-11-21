@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="105f0a1b-977c-49bd-8268-b9afc724ee58" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kHWEzEokJZTCSqJw8RCr5oAc1e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.toDoOptions" />
+  </component>
+  <component name="RunManager" selected="应用程序.dddd">
+    <configuration name="MathDivide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MathDivide" />
+      <module name="实验6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SameIntegerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SameIntegerTest" />
+      <module name="实验6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aaa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aaa" />
+      <module name="实验6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dddd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dddd" />
+      <module name="实验6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.dddd" />
+        <item itemvalue="应用程序.aaa" />
+        <item itemvalue="应用程序.SameIntegerTest" />
+        <item itemvalue="应用程序.MathDivide" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Jerry\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="105f0a1b-977c-49bd-8268-b9afc724ee58" name="默认的" comment="" />
+      <created>1605357894209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605357894209</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="617" y="115" key="#com.intellij.ide.util.MemberChooser" timestamp="1605794871284">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="617" y="115" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1605794871284" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1605802681474">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1605802681474" />
+    <state width="1493" height="153" key="GridCell.Tab.0.bottom" timestamp="1605804059212">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="153" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1605804059212" />
+    <state width="1493" height="153" key="GridCell.Tab.0.center" timestamp="1605804059211">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="153" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1605804059211" />
+    <state width="1493" height="153" key="GridCell.Tab.0.left" timestamp="1605804059211">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="153" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1605804059211" />
+    <state width="1493" height="153" key="GridCell.Tab.0.right" timestamp="1605804059211">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="153" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1605804059211" />
+    <state x="1025" y="638" width="780" height="238" key="GridCell.Tab.1.bottom" timestamp="1605804059206">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="1025" y="638" width="780" height="238" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1605804059206" />
+    <state x="1025" y="638" width="780" height="238" key="GridCell.Tab.1.center" timestamp="1605804059206">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="1025" y="638" width="780" height="238" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1605804059206" />
+    <state x="1025" y="638" width="780" height="238" key="GridCell.Tab.1.left" timestamp="1605804059212">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="1025" y="638" width="780" height="238" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1605804059212" />
+    <state x="1025" y="638" width="780" height="238" key="GridCell.Tab.1.right" timestamp="1605804059206">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="1025" y="638" width="780" height="238" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1605804059206" />
+    <state x="266" y="458" width="780" height="238" key="GridCell.Tab.2.bottom" timestamp="1605804059206">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="266" y="458" width="780" height="238" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1605804059206" />
+    <state x="266" y="458" width="780" height="238" key="GridCell.Tab.2.center" timestamp="1605804059206">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="266" y="458" width="780" height="238" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1605804059206" />
+    <state x="266" y="458" width="780" height="238" key="GridCell.Tab.2.left" timestamp="1605804059206">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="266" y="458" width="780" height="238" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1605804059206" />
+    <state x="266" y="458" width="780" height="238" key="GridCell.Tab.2.right" timestamp="1605804059206">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="266" y="458" width="780" height="238" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1605804059206" />
+    <state width="780" height="238" key="GridCell.Tab.3.bottom" timestamp="1605803596565">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="780" height="238" key="GridCell.Tab.3.bottom/0.0.1536.834@0.0.1536.834" timestamp="1605803596565" />
+    <state width="780" height="238" key="GridCell.Tab.3.center" timestamp="1605803596565">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="780" height="238" key="GridCell.Tab.3.center/0.0.1536.834@0.0.1536.834" timestamp="1605803596565" />
+    <state width="780" height="238" key="GridCell.Tab.3.left" timestamp="1605803596565">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="780" height="238" key="GridCell.Tab.3.left/0.0.1536.834@0.0.1536.834" timestamp="1605803596565" />
+    <state width="780" height="238" key="GridCell.Tab.3.right" timestamp="1605803596565">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="780" height="238" key="GridCell.Tab.3.right/0.0.1536.834@0.0.1536.834" timestamp="1605803596565" />
+    <state x="179" y="70" key="SettingsEditor" timestamp="1605764530655">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="179" y="70" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1605764530655" />
+    <state x="306" y="153" width="923" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1605770219436">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="306" y="153" width="923" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834@0.0.1536.834" timestamp="1605770219436" />
+    <state x="266" y="458" width="794" height="304" key="dock-window-1" timestamp="1605803718369">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="266" y="458" width="794" height="304" key="dock-window-1/0.0.1536.834@0.0.1536.834" timestamp="1605803718369" />
+    <state x="343" y="429" width="794" height="304" key="dock-window-10" timestamp="1605801895216">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="343" y="429" width="794" height="304" key="dock-window-10/0.0.1536.834@0.0.1536.834" timestamp="1605801895216" />
+    <state x="1120" y="414" width="794" height="304" key="dock-window-11" timestamp="1605801895219">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="1120" y="414" width="794" height="304" key="dock-window-11/0.0.1536.834@0.0.1536.834" timestamp="1605801895219" />
+    <state x="1037" y="393" width="794" height="304" key="dock-window-12" timestamp="1605802220746">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="1037" y="393" width="794" height="304" key="dock-window-12/0.0.1536.834@0.0.1536.834" timestamp="1605802220746" />
+    <state x="266" y="458" width="794" height="304" key="dock-window-13" timestamp="1605802696137">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="266" y="458" width="794" height="304" key="dock-window-13/0.0.1536.834@0.0.1536.834" timestamp="1605802696137" />
+    <state x="561" y="677" width="794" height="304" key="dock-window-2" timestamp="1605803718369">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="561" y="677" width="794" height="304" key="dock-window-2/0.0.1536.834@0.0.1536.834" timestamp="1605803718369" />
+    <state x="725" y="421" width="794" height="304" key="dock-window-3" timestamp="1605803718370">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="725" y="421" width="794" height="304" key="dock-window-3/0.0.1536.834@0.0.1536.834" timestamp="1605803718370" />
+    <state x="1208" y="491" width="794" height="304" key="dock-window-4" timestamp="1605804059322">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="1208" y="491" width="794" height="304" key="dock-window-4/0.0.1536.834@0.0.1536.834" timestamp="1605804059322" />
+    <state x="1025" y="638" width="794" height="304" key="dock-window-5" timestamp="1605804059322">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="1025" y="638" width="794" height="304" key="dock-window-5/0.0.1536.834@0.0.1536.834" timestamp="1605804059322" />
+    <state x="739" y="339" width="794" height="304" key="dock-window-6" timestamp="1605794095029">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="739" y="339" width="794" height="304" key="dock-window-6/0.0.1536.834@0.0.1536.834" timestamp="1605794095029" />
+    <state x="994" y="274" width="794" height="304" key="dock-window-7" timestamp="1605801582421">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="994" y="274" width="794" height="304" key="dock-window-7/0.0.1536.834@0.0.1536.834" timestamp="1605801582421" />
+    <state x="1033" y="299" width="794" height="304" key="dock-window-8" timestamp="1605801582421">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="1033" y="299" width="794" height="304" key="dock-window-8/0.0.1536.834@0.0.1536.834" timestamp="1605801582421" />
+    <state x="1027" y="358" width="794" height="304" key="dock-window-9" timestamp="1605801895219">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="1027" y="358" width="794" height="304" key="dock-window-9/0.0.1536.834@0.0.1536.834" timestamp="1605801895219" />
+    <state x="499" y="176" key="extract.method.dialog" timestamp="1605614919048">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="176" key="extract.method.dialog/0.0.1536.834@0.0.1536.834" timestamp="1605614919048" />
+    <state x="322" y="27" key="new project wizard" timestamp="1605851219343">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="322" y="27" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1605851219343" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dddd.java</url>
+          <line>117</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dddd.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.util.HashMap$Node" memberName="key" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="实验6" type="b2602c69:ProjectViewProjectNode" />
+        <item name="实验6" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>
